@@ -1,6 +1,10 @@
 # CodeSystem2024
 Este repo es de la organización
 <div align="center">
+<img src="https://private-user-images.githubusercontent.com/105942321/361544909-9f71fdbc-34e2-4c73-a322-0daec9a5954e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4NzYyMjMsIm5iZiI6MTcyNDg3NTkyMywicGF0aCI6Ii8xMDU5NDIzMjEvMzYxNTQ0OTA5LTlmNzFmZGJjLTM0ZTItNGM3My1hMzIyLTBkYWVjOWE1OTU0ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyOFQyMDEyMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGVjYmI4NWViOGM2ZDZjOTRjZDJjNDNiZGI3MmM5NGM1OTliZWJlYzMzYzBjYjhlZjMwNzQyZTUzM2E0YWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yHWgGSBvcNyRjZnWjtWDlISLEDvt7ZxlTiZT99kM2NQ" align="center" style="width: 500" />
+</br>
+</div>  
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
